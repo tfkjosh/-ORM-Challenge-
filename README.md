@@ -10,7 +10,7 @@
 * [License](#license)
 
 ## Description
-Our challenge is to build the back end for an e-commerce site. You’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
+This is a backend application for an Ecommerce site that uses Sequelize to interact with a MySQL database. Using insomnia, a user can interact with the backend to view the products, categories, and tags aswell as use CRUD methods to alter the databse.
 
 ## Acceptance Criteria
 GIVEN a functional Express.js API
@@ -54,6 +54,11 @@ Tag belongs to many Product models.
 -npm run seed
 node server.js
 
+## DEMO IN ORDER
+- https://github.com/tfkjosh/-ORM-Challenge-/assets/140848241/a79b15db-14b7-4135-8084-ba9e3c1abc04
+- https://github.com/tfkjosh/-ORM-Challenge-/assets/140848241/4479b0a6-e402-43a1-8855-587a858ce4cf
+- https://github.com/tfkjosh/-ORM-Challenge-/assets/140848241/d29f2f8e-668e-4f31-996f-188f58ea6dc4
+- https://github.com/tfkjosh/-ORM-Challenge-/assets/140848241/36565b5c-5638-47fb-886f-c35d8e48df14
 
 ## Credits
 
